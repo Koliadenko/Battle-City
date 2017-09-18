@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/images">
+        <file>Player.png</file>
+        <file>Wally.jpg</file>
+        <file>bg</file>
+        <file>Enemy.png</file>
+        <file>Bullet.png</file>
+        <file>Great_Symbol_Of_Independence.png</file>
+    </qresource>
+</RCC>
